@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name = "PNTActivityIndicatorView"
-  s.version = "0.1.0"
+  s.version = "0.1.1"
   s.summary = "A little class that adds custom view to MBProgressHUD"
 
   s.homepage = "https://github.com/Planet1107/PNTActivityIndicatorView"
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.platform = :ios, "6.0"
   s.ios.deployment_target = "6.0"
 
-  s.source = { :git => "https://github.com/Planet1107/PNTActivityIndicatorView.git", :tag => "0.1.0" }
+  s.source = { :git => "https://github.com/Planet1107/PNTActivityIndicatorView.git", :tag => "0.1.1" }
   s.source_files = "PNTActivityIndicatorView"
 
   s.resources = "PNTActivityIndicatorView/Resources/*.png"
