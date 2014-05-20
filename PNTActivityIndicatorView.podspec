@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.source = { :git => "https://github.com/Planet1107/PNTActivityIndicatorView.git", :tag => "0.1.0" }
   s.source_files = "PNTActivityIndicatorView"
 
-  s.resources = "Resources/*.png"
+  s.resources = "PNTActivityIndicatorView/Resources/*.png"
 
   s.requires_arc = true
 
